@@ -1,0 +1,4 @@
+com\pzograf\oddslab\data\collector\api\GameDataSource.class
+com\pzograf\oddslab\data\collector\api\GameEvent.class
+com\pzograf\oddslab\data\collector\api\GameData.class
+com\pzograf\oddslab\data\collector\api\GameStatistic.class
